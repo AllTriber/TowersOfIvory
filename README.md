@@ -4,11 +4,9 @@ Welcome to Towers of Ivory, a project developed by the students of the ASD class
 
 ## 🌟 Project Objective
 
+The rise of games with advanced graphics has overshadowed the text-based dungeon crawler genre. There is a lack of modern games that capture and enrich the essence of classic dungeon crawlers using today’s technology, presenting a challenge for fans of the genre. HAN University has initiated this project with the vision to create a bridge between former generations and contemporary gamers.
+
 Our aim is to rekindle interest in text-based dungeon crawlers by enhancing the genre with contemporary technologies, making the game continuously engaging and playable. The project is designed to attract a solid player base and breathe new life into the genre, with a special focus on multiplayer functionalities.
-
-## 🔍 Problem Statement
-
-The rise of games with advanced graphics has overshadowed the text-based dungeon crawler genre. There is a lack of modern games that capture and enrich the essence of classic dungeon crawlers using today’s technology, presenting a challenge for fans of the genre. HAN University has initiated this project with the vision to create a bridge between former generations and contemporary gamers through a game that is both accessible for beginners and offers depth for seasoned aficionados.
 
 ## 🎮 Features
 
