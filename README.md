@@ -39,6 +39,23 @@ Our aim is to rekindle interest in text-based dungeon crawlers by enhancing the 
 | UC9    | Resume Game            | The player resumes the game from the last saved point.                                                        | Not implemented |
 | UC10   | Disable Agent          | The player takes back control after being replaced by software agent.                                         | Implemented |
 
+### Functional Requirements
+
+| code | description                                                                    | status |
+|------|--------------------------------------------------------------------------------|--------|
+| FR1  | Every passable tile is reachable.                                              | Implemented |
+| FR3  | Different types of terrain have different movement costs.                      | Not implemented |
+| FR4  | Character interactions influence strengths and attributes.                     | Implemented |
+| FR6  | Every new game is played in a uniquely generated world.                        | Implemented |
+| FR7  | The world must infinitely and dynamically generate new areas.                  | Implemented |
+| FR8  | Players must be able to find each other's active game on the same network.     | Partially implemented |
+| FR9  | There are monsters in rooms that can be fought.                                | Not implemented |
+| FR10 | There is a Last Man Standing game mode.                                        | Partially Implemented |
+| FR11 | There is a Capture the Flag game mode.                                         | Not implemented |
+| FR13 | When there are 11 floors, the first floor is removed.                          | Implemented |
+| FR14 | There is a Fog of War renderer available as an alternative world visualization.| Not Implemented |
+| FR15 | There is a Field of View renderer available as an alternative world visualization.| Not Implemented |
+
 
 ## 🚧 Known Issues
 
