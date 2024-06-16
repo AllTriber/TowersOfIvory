@@ -66,7 +66,7 @@ The game is currently in full development. There are many problems that we are a
 
 ### Network Issues on MacOS and Linux Systems
 
-- **UDP Broadcast Handling**: Towers of Ivory utilizes UDP broadcast for network communication. MacOS and Linux systems are configured by default to ignore UDP packets, which limits these systems to only joining games that are hosted by others, rather than hosting games themselves.
+- **UDP Broadcast Handling**: Towers of Ivory utilizes UDP broadcast for network discovery of hosted games. MacOS and Linux systems are configured by default to ignore UDP packets, which limits these systems to only joining games that are hosted by others, rather than hosting games themselves.
 
 ### Game Desynchronization
 
