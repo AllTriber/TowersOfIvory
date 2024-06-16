@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.net.URI;
 import java.util.List;
 
-@SuppressWarnings("unused")
 public class AgentGenerator {
 
     private static final Logger LOGGER = LogManager.getLogger(AgentGenerator.class);
