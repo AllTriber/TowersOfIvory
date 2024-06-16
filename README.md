@@ -70,7 +70,7 @@ The game is currently in full development. There are many problems that we are a
 
 ### Game Desynchronization
 
-- **State Synchronization**: There are instances where the game may desynchronize. This is due to the lack of a proper mechanism for synchronizing the game state across all players. Currently, the game does not check a hash of the current game state against the host's state or resend the game state to all peers when discrepancies are detected. This can lead to gameplay issues and inconsistencies.
+- **State Synchronization**: There are instances where the game state among peers may desynchronize. This is due to the lack of a proper mechanism for synchronizing the game state across all players. Currently, the game does not check a hash of the current game state against the host's state and resend the game state to all peers when discrepancies are detected. This can lead to gameplay issues and inconsistencies.
 
 ### Issues with Seeds and Game State
 
