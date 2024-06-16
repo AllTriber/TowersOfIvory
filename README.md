@@ -80,15 +80,6 @@ The game is currently in full development. There are many problems that we are a
 
 We welcome contributions to make Towers of Ivory even better.
 
-## 📬 Contact
-
-For major changes, questions, or feature requests, please open an issue first to discuss what you would like to change.
-
-## ✨ Acknowledgments
-
-- Thanks to everyone who has contributed to this project!
-- Special thanks to the fans and players who continue to support and inspire the evolution of text-based games.
-
 ---
 
 Embark on your adventure with Towers of Ivory and redefine the legacy of text-based dungeon crawlers!
