@@ -79,7 +79,3 @@ The game is currently in full development. There are many problems that we are a
 ## 🤝 Contributing
 
 We welcome contributions to make Towers of Ivory even better.
-
----
-
-Embark on your adventure with Towers of Ivory and redefine the legacy of text-based dungeon crawlers!
