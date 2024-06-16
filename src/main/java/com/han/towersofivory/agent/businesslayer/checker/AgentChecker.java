@@ -22,7 +22,6 @@ import java.util.function.Consumer;
  *
  * @UseCase: UC3: Configureren agent, UC6: Inschakelen Agent
  * @Task: checker <a href="https://jira.aimsites.nl/browse/ASDS2G2-428">Jira Issue</a>
- * @Author: Ivar de Vries, Silke Bertisen, Pepijn van den Ende en Nigel de Graaff
  */
 public class AgentChecker {
 
