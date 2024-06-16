@@ -18,6 +18,8 @@ Our aim is to rekindle interest in text-based dungeon crawlers by enhancing the 
 
 ### Use Cases
 
+A more in-detail description of the requirements is only available at request.
+
 | Code   | Name                   | Brief description                                                                                              | Status |
 |--------|------------------------|----------------------------------------------------------------------------------------------------------------|--------|
 | UC1    | Create Game            | The player indicates wanting to start a new game. Preparation includes game type, name, game mode, agent config, seed. | Implemented |
@@ -36,7 +38,7 @@ Our aim is to rekindle interest in text-based dungeon crawlers by enhancing the 
 | UC6    | Enable Agent           | The player lets software agent play for them, can take over later.                                            | Partially Implemented |
 | UC7    | Stop Game              | The game can be stopped without data loss, can be resumed later.                                              | Implemented |
 | UC8    | Configure Game         | Configuration of game parameters to keep it interesting.                                                      | Not implemented |
-| UC9    | Resume Game            | The player resumes the game from the last saved point.                                                        | Not implemented |
+| UC9    | Resume Game            | The player resumes the game from the last saved point.                                                        | In construction @Feature Branch Spel Hervatten |
 | UC10   | Disable Agent          | The player takes back control after being replaced by software agent.                                         | Implemented |
 
 ### Functional Requirements
@@ -44,8 +46,10 @@ Our aim is to rekindle interest in text-based dungeon crawlers by enhancing the 
 | code | description                                                                    | status |
 |------|--------------------------------------------------------------------------------|--------|
 | FR1  | Every passable tile is reachable.                                              | Implemented |
+| FR2  | An agent of a player that left is runned on another client                     | Not Implemented |
 | FR3  | Different types of terrain have different movement costs.                      | Not implemented |
 | FR4  | Character interactions influence strengths and attributes.                     | Implemented |
+| FR5  | A host is migrated in a game session after loss of connection with the host.   | In construction @Feature Branch Host Migration |
 | FR6  | Every new game is played in a uniquely generated world.                        | Implemented |
 | FR7  | The world must infinitely and dynamically generate new areas.                  | Implemented |
 | FR8  | Players must be able to find each other's active game on the same network.     | Partially implemented |
@@ -55,7 +59,6 @@ Our aim is to rekindle interest in text-based dungeon crawlers by enhancing the 
 | FR13 | When there are 11 floors, the first floor is removed.                          | Implemented |
 | FR14 | There is a Fog of War renderer available as an alternative world visualization.| Not Implemented |
 | FR15 | There is a Field of View renderer available as an alternative world visualization.| Not Implemented |
-
 
 ## 🚧 Known Issues
 
