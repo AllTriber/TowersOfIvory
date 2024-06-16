@@ -19,7 +19,6 @@ import java.util.function.Consumer;
 
 /**
  * This class is responsible for checking the AST for logical errors.
- * This class is used to check the AST for logical errors.
  *
  * @UseCase: UC3: Configureren agent, UC6: Inschakelen Agent
  * @Task: checker <a href="https://jira.aimsites.nl/browse/ASDS2G2-428">Jira Issue</a>
